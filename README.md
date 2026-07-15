@@ -1,8 +1,120 @@
-# 💫 About Me:
-🔭 I’m currently working on<br><br>- Building resilient, production‑ready Python platforms using FastAPI, Django and Flask.<br><br>👯 I’m looking to collaborate on<br><br>- Open‑source projects focused on automation, API design, security and DevOps.<br><br>🤝 I’m looking for help with<br><br>- Optimizing cloud infrastructure and Kubernetes‑based deployments.<br><br>🌱 I’m currently learning<br><br>- Advanced pentesting techniques and rate‑limiting strategies for secure authentication.<br><br>💬 Ask me about<br><br>- FastAPI, Django, Flask, PostgreSQL, Redis, Docker, Kubernetes, CI/CD pipelines, API design, automation, Telegram bots.<br><br>⚡ Fun fact<br><br>- I’ve been a full‑stack Python developer for over nine years and love building complete systems with a security‑first mindset.
+<div align="center">
 
+# 🚀 FUNMIG
 
-# 💻 Tech Stack:
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/Django-3670A0?style=for-the-badge&logo=Django&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+### Building Modern Software • Open Source • AI • Infrastructure
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+We build scalable software, developer tools, AI-powered applications, and cloud infrastructure with a focus on performance, security, and reliability.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge=Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
+![Redis](https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=redis)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+
+</div>
+
+---
+
+# 🌍 About FUNMIG
+
+FUNMIG is an independent software development team focused on building reliable, scalable and secure software.
+
+Our mission is to create developer-friendly products, open-source technologies and cloud-native solutions that solve real-world problems.
+
+---
+
+# 🚀 What We Build
+
+- 🤖 Artificial Intelligence
+- 🌐 Modern Web Platforms
+- ⚡ High-Performance APIs
+- 🔐 Authentication & Security
+- ☁️ Cloud Infrastructure
+- 🐳 DevOps Automation
+- 📦 Open Source Projects
+- 💬 Communication Platforms
+- 📊 Data & Analytics
+- 🛠 Developer Tools
+
+---
+
+# 🛠 Technology Stack
+
+### Languages
+
+- Python
+- Rust
+- JavaScript
+- TypeScript
+- PHP
+
+### Backend
+
+- FastAPI
+- Django
+- Flask
+- Node.js
+
+### Databases
+
+- PostgreSQL
+- MySQL
+- Redis
+- SQLite
+
+### DevOps
+
+- Docker
+- Kubernetes
+- Nginx
+- Linux
+- GitHub Actions
+
+### Cloud
+
+- CI/CD
+- Monitoring
+- Reverse Proxy
+- Load Balancing
+- Automation
+
+---
+
+# ❤️ Open Source
+
+We believe open source accelerates innovation.
+
+Our repositories are built to be:
+
+- Production Ready
+- Well Documented
+- Secure
+- Fast
+- Easy to Contribute
+
+Contributions are always welcome.
+
+---
+
+# 🤝 Contributing
+
+Whether you're fixing bugs, improving documentation, or building new features, we'd love your contribution.
+
+Please open an Issue or Pull Request to get started.
+
+---
+
+# 🎯 Vision
+
+Building software that remains accessible, reliable and useful everywhere.
+
+---
+
+<div align="center">
+
+### ⭐ Building the future, one commit at a time.
+
+</div>
