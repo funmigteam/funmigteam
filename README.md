@@ -26,8 +26,6 @@
     </svg>
     </div>
 
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=Building+Modern+Software;Open+Source+Innovation;AI+Driven+Products;Social+Platforms" alt="Animated typing banner" />
-
     We design, build, and scale high-performance software, modern digital products, and developer tools with a sharp focus on reliability, security, and exceptional user experience. 🚀
 
     <p align="center">
