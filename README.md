@@ -2,9 +2,29 @@
 
 <img src="https://raw.githubusercontent.com/funmigteam/funmigteam/main/funmig_banner.png" alt="FUNMIG Banner" width="100%">
 
-# ⚡ FUNMIG
-
-### Building Modern Software • Open Source • AI • Social Platform
+<div align="center">
+  <svg width="860" height="170" viewBox="0 0 860 170" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#7C3AED"/>
+        <stop offset="50%" stop-color="#2563EB"/>
+        <stop offset="100%" stop-color="#0EA5E9"/>
+      </linearGradient>
+    </defs>
+    <rect x="20" y="20" width="820" height="130" rx="28" fill="#0b1020" stroke="url(#grad)" stroke-width="2"/>
+    <circle cx="90" cy="86" r="8" fill="#38bdf8">
+      <animate attributeName="r" values="8;14;8" dur="1.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="770" cy="86" r="8" fill="#f59e0b">
+      <animate attributeName="r" values="8;14;8" dur="1.8s" begin="0.6s" repeatCount="indefinite"/>
+    </circle>
+    <path d="M120 88C180 52 220 52 280 88" stroke="#7C3AED" stroke-width="3" fill="none" stroke-linecap="round">
+      <animate attributeName="stroke-dasharray" values="0,220;220,0;0,220" dur="2.2s" repeatCount="indefinite"/>
+    </path>
+    <text x="430" y="86" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="44" font-weight="800" fill="url(#grad)">FUNMIG</text>
+    <text x="430" y="116" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="500" fill="#dbeafe">Building Modern Software • Open Source • AI • Social Platform</text>
+  </svg>
+</div>
 
 We design, build, and scale high-performance software, modern digital products, and developer tools with a sharp focus on reliability, security, and exceptional user experience. 🚀
 
