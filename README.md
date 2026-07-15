@@ -1,17 +1,26 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/funmigteam/funmigteam/main/funmig_banner.png" alt="FUNMIG Banner" width="100%">
+
 # 🚀 FUNMIG
 
-### Building Modern Software • Open Source • AI • Infrastructure
+### Building Modern Software • Open Source • AI • Social Platform
 
-We build scalable software, developer tools, AI-powered applications, and cloud infrastructure with a focus on performance, security, and reliability.
+We design, build and maintain scalable software, modern web platforms and developer tools with a strong focus on performance, security and exceptional user experience.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Redis](https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=redis)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask">
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=redis&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
+</p>
 
 </div>
 
@@ -19,24 +28,26 @@ We build scalable software, developer tools, AI-powered applications, and cloud 
 
 # 🌍 About FUNMIG
 
-FUNMIG is an independent software development team focused on building reliable, scalable and secure software.
+FUNMIG is an independent software development team dedicated to creating modern digital products that are fast, scalable and secure.
 
-Our mission is to create developer-friendly products, open-source technologies and cloud-native solutions that solve real-world problems.
+From backend infrastructure and cloud-native systems to developer tools and full-scale web applications, we build software designed for real-world use.
+
+Our flagship product is **FUNMIG**, a next-generation social platform built entirely by our team, showcasing our expertise in backend engineering, scalable architecture and user-focused product development.
 
 ---
 
 # 🚀 What We Build
 
-- 🤖 Artificial Intelligence
-- 🌐 Modern Web Platforms
-- ⚡ High-Performance APIs
+- 🌐 Modern Web Applications
+- 🤖 AI-powered Products
+- 📱 Social Platforms
+- ⚡ High-Performance REST APIs
 - 🔐 Authentication & Security
 - ☁️ Cloud Infrastructure
-- 🐳 DevOps Automation
+- 🐳 DevOps & Automation
 - 📦 Open Source Projects
-- 💬 Communication Platforms
-- 📊 Data & Analytics
 - 🛠 Developer Tools
+- 📊 Data Platforms
 
 ---
 
@@ -55,7 +66,6 @@ Our mission is to create developer-friendly products, open-source technologies a
 - FastAPI
 - Django
 - Flask
-- Node.js
 
 ### Databases
 
@@ -64,56 +74,54 @@ Our mission is to create developer-friendly products, open-source technologies a
 - Redis
 - SQLite
 
-### DevOps
+### Infrastructure
 
 - Docker
 - Kubernetes
-- Nginx
 - Linux
+- Nginx
 - GitHub Actions
-
-### Cloud
-
 - CI/CD
-- Monitoring
-- Reverse Proxy
-- Load Balancing
-- Automation
 
 ---
 
 # ❤️ Open Source
 
-We believe open source accelerates innovation.
+Open source is at the heart of our engineering culture.
 
-Our repositories are built to be:
+We strive to build projects that are:
 
-- Production Ready
-- Well Documented
-- Secure
-- Fast
-- Easy to Contribute
+- 🚀 Production Ready
+- 📖 Well Documented
+- 🔒 Secure by Design
+- ⚡ High Performance
+- 🧩 Easy to Extend
+- 🤝 Community Friendly
 
-Contributions are always welcome.
+We welcome contributions from developers around the world.
 
 ---
 
 # 🤝 Contributing
 
-Whether you're fixing bugs, improving documentation, or building new features, we'd love your contribution.
+Found a bug? Have an idea? Want to improve one of our projects?
 
-Please open an Issue or Pull Request to get started.
+Feel free to open an **Issue** or submit a **Pull Request**.
+
+Every contribution helps make our ecosystem better.
 
 ---
 
-# 🎯 Vision
+# 🎯 Our Vision
 
-Building software that remains accessible, reliable and useful everywhere.
+To build innovative software that empowers developers, businesses and communities through modern technology, open collaboration and exceptional engineering.
 
 ---
 
 <div align="center">
 
-### ⭐ Building the future, one commit at a time.
+### 🚀 Engineering the Future, One Commit at a Time.
+
+⭐ If you like our work, consider giving our repositories a star!
 
 </div>
