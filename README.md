@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/funmigteam/funmigteam/main/funmig_banner.png" alt="FUNMIG Banner" width="100%">
 
-# 🚀 FUNMIG
+# FUNMIG
 
 ### Building Modern Software • Open Source • AI • Social Platform
 
@@ -26,7 +26,7 @@ We design, build and maintain scalable software, modern web platforms and develo
 
 ---
 
-# 🌍 About FUNMIG
+## ![About](https://img.shields.io/badge/About_FUNMIG-7C3AED?style=for-the-badge)
 
 FUNMIG is an independent software development team dedicated to creating modern digital products that are fast, scalable and secure.
 
@@ -36,22 +36,22 @@ Our flagship product is **FUNMIG**, a next-generation social platform built enti
 
 ---
 
-# 🚀 What We Build
+## ![Products](https://img.shields.io/badge/What_We_Build-6D28D9?style=for-the-badge)
 
-- 🌐 Modern Web Applications
-- 🤖 AI-powered Products
-- 📱 Social Platforms
-- ⚡ High-Performance REST APIs
-- 🔐 Authentication & Security
-- ☁️ Cloud Infrastructure
-- 🐳 DevOps & Automation
-- 📦 Open Source Projects
-- 🛠 Developer Tools
-- 📊 Data Platforms
+- Modern Web Applications
+- AI-powered Products
+- Social Platforms
+- High-Performance REST APIs
+- Authentication & Security
+- Cloud Infrastructure
+- DevOps & Automation
+- Open Source Projects
+- Developer Tools
+- Data Platforms
 
 ---
 
-# 🛠 Technology Stack
+## ![Stack](https://img.shields.io/badge/Technology_Stack-2563EB?style=for-the-badge)
 
 ### Languages
 
@@ -85,24 +85,24 @@ Our flagship product is **FUNMIG**, a next-generation social platform built enti
 
 ---
 
-# ❤️ Open Source
+## ![Open Source](https://img.shields.io/badge/Open_Source-181717?style=for-the-badge&logo=github&logoColor=white)
 
 Open source is at the heart of our engineering culture.
 
 We strive to build projects that are:
 
-- 🚀 Production Ready
-- 📖 Well Documented
-- 🔒 Secure by Design
-- ⚡ High Performance
-- 🧩 Easy to Extend
-- 🤝 Community Friendly
+- Production Ready
+- Well Documented
+- Secure by Design
+- High Performance
+- Easy to Extend
+- Community Friendly
 
 We welcome contributions from developers around the world.
 
 ---
 
-# 🤝 Contributing
+## ![Contributing](https://img.shields.io/badge/Contributing-22C55E?style=for-the-badge)
 
 Found a bug? Have an idea? Want to improve one of our projects?
 
@@ -112,7 +112,7 @@ Every contribution helps make our ecosystem better.
 
 ---
 
-# 🎯 Our Vision
+## ![Vision](https://img.shields.io/badge/Our_Vision-F97316?style=for-the-badge)
 
 To build innovative software that empowers developers, businesses and communities through modern technology, open collaboration and exceptional engineering.
 
@@ -120,8 +120,8 @@ To build innovative software that empowers developers, businesses and communitie
 
 <div align="center">
 
-### 🚀 Engineering the Future, One Commit at a Time.
+## ![Future](https://img.shields.io/badge/Engineering_the_Future-8B5CF6?style=for-the-badge)
 
-⭐ If you like our work, consider giving our repositories a star!
+### ⭐ If you like our work, consider giving our repositories a star!
 
 </div>
