@@ -10,7 +10,6 @@ We build scalable software, developer tools, AI-powered applications, and cloud 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge=Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
 ![Redis](https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=redis)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
 
